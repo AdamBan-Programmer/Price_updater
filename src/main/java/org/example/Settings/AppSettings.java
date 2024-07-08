@@ -75,7 +75,7 @@ public class AppSettings {
             currentAppSettings = new AppSettings(args[0], Integer.parseInt(args[1]), args[2], args[3], args[4]);
         }
         else {
-            currentAppSettings = new AppSettings("192.168.0.64",3307,"steam_market","adam_room","Inventory123#");
+            currentAppSettings = new AppSettings("192.168.0.6",3307,"table_name","login","password");
         }
     }
 }
