@@ -4,32 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a0ded21-d662-41f7-9c0e-7bf6a5d42fff" name="Changes" comment="commit">
+    <list default="true" id="15f68f47-79d4-4ad2-acd0-cff4bc2bb491" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Steam_price_updater.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Steam_price_updater_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/.idea/artifacts/Steam_price_updater_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/out/artifacts/Steam_price_updater_jar/Steam_price_updater.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/java/org/example/Connection/SQL_Operations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/java/org/example/Connection/ServerError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/java/org/example/Connection/Steam_Connection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/java/org/example/Items/ObservedItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/java/org/example/Items/UpdatedItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/java/org/example/Main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/java/org/example/Settings/AppSettings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/java/org/example/Settings/HibernateSettings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/java/org/example/Utils/DateFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Steam_price_updater/src/main/resources/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Steam_price_updater_jar/Steam_price_updater.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Steam_price_updater_jar/Steam_price_updater.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Connection/Steam_Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Connection/Steam_Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Settings/AppSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Settings/AppSettings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +27,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2iVqeMfcAUwkWAIJiBtyAQNUQ9Q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2ironsTQ4LEgHadRperiGVAejiJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,49 +41,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Adam/IdeaProjects/Steam_price_updater"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="1 commit">
-      <option name="closed" value="true" />
-      <created>1719585796595</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1719585796595</updated>
-    </task>
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8a0ded21-d662-41f7-9c0e-7bf6a5d42fff" name="Changes" comment="1 commit" />
-      <created>1719586188543</created>
+      <changelist id="15f68f47-79d4-4ad2-acd0-cff4bc2bb491" name="Changes" comment="" />
+      <created>1720258228215</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1719586188543</updated>
+      <updated>1720258228215</updated>
     </task>
-    <task id="LOCAL-00002" summary="1 commit">
-      <option name="closed" value="true" />
-      <created>1719586271403</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1719586271403</updated>
-    </task>
-    <task id="LOCAL-00003" summary="commit">
-      <option name="closed" value="true" />
-      <created>1719586341379</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1719586341379</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="1 commit" />
-    <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

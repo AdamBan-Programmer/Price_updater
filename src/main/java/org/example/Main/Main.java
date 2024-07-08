@@ -29,7 +29,6 @@ public class Main {
             List<ObservedItem> observedItemList = databaseController.getObservedItems();
             updateObservedItems(observedItemList);
             databaseController.increaseUpdatesCounter();
-
         } catch (HttpServerErrorException.InternalServerError | JsonProcessingException e) {
             serverErrorController.internalServerError();
         } catch (HttpClientErrorException.TooManyRequests e) {
