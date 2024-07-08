@@ -75,8 +75,8 @@ public class AppSettings {
             currentAppSettings = new AppSettings(args[0], Integer.parseInt(args[1]), args[2], args[3], args[4]);
         }
         else {
-            System.exit(0);
             System.out.println("Not set starting parameters!");
+            System.exit(0);
         }
     }
 }
